@@ -6,7 +6,7 @@ Este proyecto es una aplicación web desarrollada con **Laravel** diseñada para
 ## Tecnologías Utilizadas
 - **Framework:** Laravel 10 (o la versión que se use)
 - **Base de Datos:** MySQL
-- **Frontend:** Bootstrap
+- **Frontend:** Blade, Bootstrap
 - **Control de versiones:** Git / GitHub
 
 ## Funcionalidades Principales
