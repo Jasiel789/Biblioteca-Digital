@@ -4,7 +4,7 @@
 Este proyecto es una aplicación web desarrollada con **Laravel** diseñada para la administración eficiente de una biblioteca. Permite el control de inventario de libros, registro de usuarios y gestión de préstamos, optimizando los tiempos de búsqueda y consulta.
 
 ## Tecnologías Utilizadas
-- **Framework:** Laravel 10 (o la versión que se use)
+- **Framework:** Laravel 10 
 - **Base de Datos:** MySQL
 - **Frontend:** Blade, Bootstrap
 - **Control de versiones:** Git / GitHub
